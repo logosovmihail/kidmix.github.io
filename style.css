@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+}
+@media (min-width: 800px){
+.all{
+    display: flex;
+}
+}
+.all div{
+    border: 1px solid silver;
+}
+.q1{
+    flex:1;
+    background: lightblue;
+}
+.q2{
+	text-align: center;
+	flex:4;
+}
+a{
+	text-decoration: none;
+	color:black;
+
+}
+li {
+    list-style-type: none; 
+   }
+.f{
+	background: green;
+}
+
