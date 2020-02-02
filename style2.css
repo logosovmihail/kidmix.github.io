@@ -53,6 +53,7 @@ header{
 }
 .q2 img{
     width: 400px;
+	height:285;
 }
 .q3{
     display: flex;
